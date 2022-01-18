@@ -1,4 +1,8 @@
-### Hi there 👋, My Name is Josh.
+### Hi 👋, I'm Josh.
+
+A C#, .NET Software Engineer, currently working in a Full Stack developer role. 
+
+🌱 I’m currently learning React and AWS.
 
 <!--
 **JoshuaDouce/JoshuaDouce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
